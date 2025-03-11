@@ -1,0 +1,27 @@
+Exercise 2: Task Scenarios
+
+Write down 5 task Scenarios one might perform at any upscale mexican restaurant's website:
+
+1) Adios Mio! Too Spicy? Explore our menu options that offer bold flavors for you to savor (without the bite)!
+Narrow down menu options according to how spicy they are for more mild patrons
+
+2) Watch What You Eat! Our extensive menu offers substitutions and options that reduce your caloric intake or
+to please even the most demanding of dietary restrictions
+People have diverse tastes, the restaurant could offer substitutions or other options for people with dietary
+restrictions
+
+3)In the Know. Want to know what changes seasonally with our menu? We email a newsletter of all our new/seasonal
+dishes so you're IN THE KNOW. 
+Receive a newsletter or email in regards to the seasonal changes/general changes of the menu, coinsides with 
+Mr. Poblano saying he would send notifications. 
+
+4)Table For Two. Our website offers online reservations to be made by just providing your name, party number, 
+and a method of contact.
+Most upscale restaurants offer reservation options either directly or third party, Reserving seats for persons
+or groups. 
+
+5)Estoy Perdido. Need directions to our location? See our navigation section for real time directions.
+Since there is one primary location, the website could offer directions to the main location for patrons
+and (should he expand) offer the different locations with contact information once it franchises.
+
+
