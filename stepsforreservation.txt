@@ -1,0 +1,34 @@
+1. User clicks on reservation link
+
+2.User is redirected to a part of the website that says find a table with
+a dropdown menu for the # of people, the date, and the time frame in 15 minute increments
+
+3.User selects timeframe and party number based on menu(6 people/ June 5th 2025/ 7:00pm) 
+
+4.System has two options:
+	Option 1: Displays a message that says "Sorry no tables are available within 2 hours of this time frame"
+                  With a button that says notify me so the user can be notified of any changes
+        Option 2: Displays a series of squares that showcase the available timeframes ex) 
+                  |6:30|6:45|7:00|7:15|7:30| etc that is within one hour of the designated timeframe 
+                  the user has entered
+5)User selects Timeframe slot
+
+6)System shows a form that allows user to enter first name/last name/phone/email with additional
+enteries that ask for the type of occasion and any additional accommodations with a next button.
+
+7)User enters information and enters that they need a wheelchair accessible location for one of the members 
+and hits next
+
+8)Displays another form for secure credit card entry as insurance for no shows or last minute changes
+with a submit button
+
+9)User enters credit card information and clicks submit
+
+10)A message is displayed saying thank you for registering for poblanos for (insert time period here)!
+we look forward to your visit: It also indicates any information for arrival including parking, instructions
+for cancelling reservation (if needed) and a brief message saying an email of confirmation was sent to the 
+email address specified
+
+11)Reservation information is stored in the database for record keeping
+
+12)User receives email confirming reservation  
